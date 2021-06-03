@@ -93,7 +93,7 @@ export default {
 ```
 You need to replace the server dns domain or ip addr of 'localhost'.
 
-And we should install textile(https://textile.io/)'s hub(https://docs.textile.io/hub/accounts/),please enter command line 'hub init' to register your account,and then 'hub buck init' in this '/public' path.
+And we should install textile(https://textile.io/ )'s hub(https://docs.textile.io/hub/accounts/ ),please enter command line 'hub init' to register your account,and then 'hub buck init' in this '/public' path.
 
 Then start a crontab task to copy json file to public,And use 'hub buck watch' to update files quickly.
 
